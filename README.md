@@ -1,2 +1,2 @@
-# FORMULA-1-Race-Intelligence-Dashboard-Analysis-Report-2010-2026-
-Formula 1 data analytics (2010–2026) using Tableau to visualize driver performance, race results, circuit distribution, and pit stop insights.
+Access project demonstration video through the link below:
+https://drive.google.com/drive/folders/1hYdyhg5_m6iNsa4lzoghJQoCZDpp-AdG?usp=sharing
